@@ -10,3 +10,6 @@
 [submodule "ft_server"]
 	path = ft_server
 	url = https://github.com/BoyerDamien/ft_server.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/BoyerDamien/get_next_line.git
