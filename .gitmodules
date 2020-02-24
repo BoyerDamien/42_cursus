@@ -13,3 +13,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/BoyerDamien/get_next_line.git
+[submodule "mini_rt"]
+	path = mini_rt
+	url = https://github.com/BoyerDamien/mini_rt.git
