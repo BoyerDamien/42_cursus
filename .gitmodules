@@ -7,3 +7,6 @@
 [submodule "ft_printf"]
 	path = ft_printf
 	url = https://github.com/BoyerDamien/ft_printf.git
+[submodule "ft_server"]
+	path = ft_server
+	url = https://github.com/BoyerDamien/ft_server.git
