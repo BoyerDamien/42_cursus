@@ -1,0 +1,6 @@
+[submodule "C"]
+	path = C
+	url = https://github.com/BoyerDamien/C.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/BoyerDamien/libft.git
